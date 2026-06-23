@@ -1,3 +1,35 @@
+# Python Data Structures Assignment 
+# Section 1: Lists
+# 1.	Create a List:
+# Create a list containing the numbers 1 through 15. Print the list.
+# 2.	List of Strings:
+# Create a list of your five favorite fruits. Print the list.
+# 3.	Accessing Elements:
+# Given the list [10, 20, 30, 40, 50], print the first and last element using positive and negative indexing.
+# 4.	List Length:
+# Create a list of any 5 items and print its length using the len() function.
+# 5.	Appending Elements:
+# Start with an empty list and append the numbers 1, 2, and 3. Print the list.
+# 6.	Inserting an Element:
+# Given a list [1, 3, 4], insert the number 2 at the correct position so that the list becomes [1, 2, 3, 4].
+# 7.	Removing an Element:
+# Remove the number 3 from the list [1, 2, 3, 4, 5] using a list method and print the new list.
+# 8.	Popping an Element:
+# Given the list [10, 20, 30, 40], pop the last element and print the element and the updated list.
+# 9.	Slicing a List:
+# Given the list [0, 1, 2, 3, 4, 5], print a slice that contains the elements from index 2 to 4.
+# 10.	List Concatenation:
+# Concatenate two lists, e.g., [1, 2, 3] and [4, 5, 6], and print the resulting list.
+# 11.	Repeating a List:
+# Create a list [1, 2] and print the list repeated three times.
+# 12.	Copying a List:
+# Create a copy of a given list and print both the original and the copy.
+# 13.	Clearing a List:
+# Given any list, use a method to clear all its elements and then print the empty list.
+
+
+
+
 # # Python Data Structures Assignments
 # # Section 1 : List
 
@@ -89,6 +121,28 @@ we apppend or change data it will be applied on both.
 lst = [1,2,3,4,5]
 valua =lst.clear()
 print(lst)
+
+# Section 2: Tuples
+# 1.	Create a Tuple:
+# Create a tuple containing the numbers 1, 2, and 3. Print the tuple.
+# 2.	Tuple of Strings:
+# Create a tuple of three different color names and print it.
+# 3.	Accessing Tuple Elements:
+# Given the tuple (10, 20, 30, 40), print the second element.
+# 4.	Tuple Slicing:
+# Using the tuple (0, 1, 2, 3, 4), print a slice that contains elements from index 1 to 3.
+# 5.	Concatenating Tuples:
+# Concatenate two tuples, e.g., (1, 2) and (3, 4), and print the result.
+# 6.	Tuple Unpacking:
+# Store the tuple ("Alice", 25, "New York") into three variables and print them.
+# 7.	Convert List to Tuple:
+# Convert the list [1, 2, 3, 4] into a tuple and print the tuple.
+# 8.	Counting Occurrences:
+# Given the tuple (1, 2, 2, 3, 2), count how many times the number 2 appears.
+# 9.	Finding an Index:
+# In the tuple (10, 20, 30, 40), find the index of the element 30 and print it.
+
+
 
 # Section 2: Tuples
 
